@@ -1,0 +1,23 @@
+{
+  "name": "AWSECommerceService",
+  "version": "0.0.1",
+  "description": "Amazon Fulfillment Web Service (Amazon FWS)  information are retry from Amazon API.",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/elankeeran/AWSECommerceService.git"
+  },
+  "keywords": [
+    "AWSECommerceService"
+  ],
+  "author": "Elankeeran Vaithiyanathan",
+  "license": "BSD",
+  "gitHead": "a44a2c6ee21ee4f5f636f77250026458b6f1f079",
+  "readmeFilename": "Readme.md"
+}
